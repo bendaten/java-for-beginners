@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_231" class="java.beans.XMLDecoder">
+ <object class="com.bendaten.trainer.chapter12.College" id="College0">
+  <void property="name">
+   <string>Technion</string>
+  </void>
+  <void property="people">
+   <void method="add">
+    <object class="com.bendaten.trainer.chapter12.Person">
+     <void property="id">
+      <int>1234</int>
+     </void>
+     <void property="name">
+      <string>Yehuda Tirosh</string>
+     </void>
+     <void property="type">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>com.bendaten.trainer.chapter12.Person$Type</class>
+       <string>STAFF</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.bendaten.trainer.chapter12.Person">
+     <void property="id">
+      <int>4321</int>
+     </void>
+     <void property="name">
+      <string>Deborah Petrank</string>
+     </void>
+     <void property="type">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>com.bendaten.trainer.chapter12.Person$Type</class>
+       <string>ADMIN</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.bendaten.trainer.chapter12.Person">
+     <void property="id">
+      <int>10234</int>
+     </void>
+     <void property="name">
+      <string>Daniel Ben David</string>
+     </void>
+     <void property="type">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>com.bendaten.trainer.chapter12.Person$Type</class>
+       <string>STUDENT</string>
+      </object>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
