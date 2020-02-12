@@ -16,6 +16,8 @@ understandable.
 The bottom line, I recommend browsing through this playlist. I figure most of you will be able to skip large portions
 of it and get to specifics you want to learn or refresh your knowledge.
 
+Note: `main()` in `src/com/bendaten/trainer/Chapters.java`
+
 ## Syllabus
 
 ### 1. Overview
